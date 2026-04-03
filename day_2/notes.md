@@ -8,14 +8,6 @@ Think of a variable as a **labeled box** — you put something inside and refer 
 
 In Python, you create a variable by writing a name, then `=`, then the value. Python figures out the type automatically. No need to declare anything!
 
-### Examples
-
----python
-player_name = "Alex"       # string (text)
-score       = 100          # integer (whole number)
-speed       = 9.5          # float (decimal)
-is_alive    = True         # boolean (True/False)
-
 # Variables in Python
 
 Here's a summary of what each example teaches:
@@ -36,3 +28,13 @@ Here's a summary of what each example teaches:
 ## Interactive Learning
 
 Click any tab in the widget above to explore each example interactively, and use the sliders/inputs to see how changing variable values changes the output in real time.
+
+### Examples
+
+```python
+player_name = "Alex"       # string (text)
+score       = 100          # integer (whole number)
+speed       = 9.5          # float (decimal)
+is_alive    = True         # boolean (True/False)
+
+
