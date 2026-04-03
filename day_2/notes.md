@@ -25,10 +25,6 @@ Here's a summary of what each example teaches:
 - Use underscores for spaces: my_variable, not myVariable (Python convention)
 - Variables can be reassigned at any time — they're not fixed!
 
-## Interactive Learning
-
-Click any tab in the widget above to explore each example interactively, and use the sliders/inputs to see how changing variable values changes the output in real time.
-
 ### Examples
 
 ```python
