@@ -10,7 +10,7 @@ In Python, you create a variable by writing a name, then `=`, then the value. Py
 
 ### Examples
 
-```python
+--- python
 player_name = "Alex"       # string (text)
 score       = 100          # integer (whole number)
 speed       = 9.5          # float (decimal)
